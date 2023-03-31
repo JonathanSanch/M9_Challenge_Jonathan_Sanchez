@@ -1,5 +1,4 @@
-# OAuth Security Implementation for 
-# Java Spring API
+# OAuth Security Implementation for Java Spring API
 
 
 
