@@ -6,9 +6,8 @@
 
 ### Overview
 
-Starter code: [./starter](./starter)
 
-In this challenge, you willen force authentication of an API via OAuth.
+In this challenge, you will enforce authentication of an API via OAuth.
 
 ### Goals
 
